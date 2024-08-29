@@ -1,4 +1,4 @@
-# Gan_Vandar
+# Gan-Vandar
 A fuctional app where user can sign up and log in to their account. User will see article list and can read blogs. The API was provided by the mentor. <br>
 <table>
 <tr>
